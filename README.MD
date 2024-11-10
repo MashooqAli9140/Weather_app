@@ -2,7 +2,7 @@
 This is a simple Weather App built with JavaScript using the Fetch API to retrieve live weather data. 🌎 The app allows users to enter a city name and get real-time weather information, including temperature, humidity, and general conditions.
 
 🌐 Live Demo
-Check out the app here: Weather App by Mashooq on Netlify 🚀
+Check out the app here: https://weather-app-by-mashooq.netlify.app/ 🚀
 
 Key Features
 Live Weather Data: Fetches up-to-date information from an external weather API.
